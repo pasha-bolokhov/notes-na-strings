@@ -7,3 +7,9 @@
 [submodule "sorientational"]
 	path = sorientational
 	url = git@github.com:pasha-bolokhov/na-strings-sorientational.git
+[submodule "stranslational"]
+	path = stranslational
+	url = git@github.com:pasha-bolokhov/na-strings-stranslational.git
+[submodule "strings"]
+	path = strings
+	url = git@github.com:pasha-bolokhov/na-strings-strings.git
