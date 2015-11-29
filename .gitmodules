@@ -1,3 +1,6 @@
 [submodule "action"]
 	path = action
 	url = git@github.com:pasha-bolokhov/na-strings-action.git
+[submodule "N4-lagrangian"]
+	path = N4-lagrangian
+	url = git@github.com:pasha-bolokhov/na-strings-N4-lagrangian.git
