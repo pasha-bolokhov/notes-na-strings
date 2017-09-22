@@ -1,15 +1,20 @@
 [submodule "action"]
 	path = action
 	url = git@github.com:pasha-bolokhov/na-strings-action.git
+	branch = master
 [submodule "N4-lagrangian"]
 	path = N4-lagrangian
 	url = git@github.com:pasha-bolokhov/na-strings-N4-lagrangian.git
+	branch = master
 [submodule "sorientational"]
 	path = sorientational
 	url = git@github.com:pasha-bolokhov/na-strings-sorientational.git
+	branch = master
 [submodule "stranslational"]
 	path = stranslational
 	url = git@github.com:pasha-bolokhov/na-strings-stranslational.git
+	branch = master
 [submodule "strings"]
 	path = strings
 	url = git@github.com:pasha-bolokhov/na-strings-strings.git
+	branch = master
